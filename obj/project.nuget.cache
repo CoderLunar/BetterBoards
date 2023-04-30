@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJPD6V61ub+IWGikglu28g/AbHr5fd5j/JpreEWltDEeyF1QGUzovEoi8QGEqsbEF3ymXC1vuKOwg/N7zvRbiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lunar\\Mods\\BetterBoards\\BetterBoards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lunar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lunar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
